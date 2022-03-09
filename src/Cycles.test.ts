@@ -1,4 +1,4 @@
-import { rangeSum, iterationCount, symbolsReplace } from './Cycles';
+import { rangeSum, iterationCount, symbolsReplace } from './Cycles.js';
 
 describe('Урок 5.10 - Циклы', () => {
     describe('Тест цикла for', () => {
